@@ -1,2 +1,2 @@
 
-10.times{print "say hello\n"}
+10.times{print "say hello boss\n"}
